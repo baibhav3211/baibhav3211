@@ -22,9 +22,3 @@
 
 
 
-
-<p<img align="center" src="https://github-readme-stats.vercel.app/api?username=baibhav3211&show_icons=true&locale=en" alt="baibhav3211" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baibhav3211&" alt="baibhav3211" /></p>
-
