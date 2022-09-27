@@ -21,7 +21,7 @@
 <p><a href="https://www.buymeacoffee.com/baibhav3211"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="baibhav3211" /></a></p><br><br>
 
 <h2>Badges Earned</h2>
-[![@baibhav3211's Holopin board](https://holopin.io/api/user/board?user=baibhav3211)](https://holopin.io/@baibhav3211)
+[![@baibhav3211's Holopin board](https://holopin.io/api/user/board?user=baibhav3211)]
 
 
 My Portfolio: https://baibhav3211.github.io/My-portfolio/
